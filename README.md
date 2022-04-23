@@ -44,6 +44,7 @@ Feel free to check the <a href="https://github.com/microverseinc/readme-template
   
   <ul>
   <li>Donat Uwamahoro:<a href="https://github.com/uwadonat">uwadonat</a></li>
+   <li>Lydia Ingabire:<a href="https://github.com/DeliceLydia">DeliceLydia</a></li>
   </ul>
   
   

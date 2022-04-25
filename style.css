@@ -8,7 +8,7 @@ body {
 }
 
 .toolbar ul {
-  display: flex;
+  float: left;
   list-style: none;
   height: 80px;
   width: 383px;

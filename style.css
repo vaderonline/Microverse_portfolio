@@ -286,7 +286,7 @@ body {
 }
 
 .languages {
-  display: flex;
+  float: auto;
   justify-content: space-between;
   padding-left: 0;
   margin-right: 50px;
@@ -335,7 +335,7 @@ body {
 
 /* About me section */
 .about-me-section {
-  display: grid;
+  float: auto;
   grid-template-columns: 327px;
   justify-content: center;
   position: absolute;

@@ -105,6 +105,8 @@ dist
 
 #files and folder
 .hintrc
-.stylelintrc
+.hintrc
+
 package-lock.json
 package.json
+.stylelintrc.json

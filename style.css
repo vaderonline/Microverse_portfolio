@@ -442,3 +442,81 @@ body {
 .rectangular {
   margin-top: 76px;
 }
+
+.footer {
+  position: absolute;
+  top: 6000px;
+  left: 0;
+  width: 375px;
+  max-height: 930px;
+  height: auto;
+  padding: 100px 24px 0 24px;
+  background-color: #ffff;
+  text-align: center;
+}
+
+.footer .footer-text {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  margin-bottom: 36.5px;
+  color: #172b4d;
+  text-align: center;
+}
+
+.contact-section {
+  list-style: none;
+}
+
+.form-items {
+  flex: none;
+  text-align: center;
+  order: 1;
+  flex-grow: 0;
+  margin: 24px 0;
+  position: static;
+  left: 0%;
+  right: 0%;
+  top: 21.82%;
+  bottom: 63.64%;
+}
+
+.name,
+.email {
+  width: 327px;
+  height: 48px;
+}
+
+.textarea {
+  width: 327px;
+  height: 114px;
+}
+
+.submit-button {
+  padding: 12px;
+  width: 150px;
+  height: 62px;
+  background: #ff6b00;
+  font-family:
+    "Inter",
+    sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: white;
+  text-decoration: none;
+  margin: 12px 0;
+}
+
+.submit-button:hover,
+.submit-button:active,
+.social-icon:hover {
+  color: rgba(255, 255, 255, 0.335);
+}
+
+.icons {
+  font-size: 30px;
+}

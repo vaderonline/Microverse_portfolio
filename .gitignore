@@ -104,9 +104,6 @@ dist
 .tern-port
 
 #files and folder
-.hintrc
-.hintrc
-
 package-lock.json
 package.json
 .stylelintrc.json

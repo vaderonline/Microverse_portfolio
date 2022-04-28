@@ -464,7 +464,7 @@ body {
   text-align: center;
 }
 
-ul {
+.contact-section {
   list-style: none;
 }
 
@@ -473,7 +473,7 @@ ul {
   text-align: center;
   order: 1;
   flex-grow: 0;
-  margin: 24px 0px;
+  margin: 24px 0;
   position: static;
   left: 0%;
   right: 0%;
@@ -481,7 +481,8 @@ ul {
   bottom: 63.64%;
 }
 
-.name, .email {
+.name,
+.email {
   width: 327px;
   height: 48px;
 }
@@ -496,8 +497,9 @@ ul {
   width: 150px;
   height: 62px;
   background: #ff6b00;
-  font-family: "Inter",
-  sans-serif;
+  font-family:
+    "Inter",
+    sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
@@ -517,4 +519,4 @@ ul {
 
 .icons {
   font-size: 30px;
-} 
+}
